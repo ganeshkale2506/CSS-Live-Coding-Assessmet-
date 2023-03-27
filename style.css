@@ -1,0 +1,211 @@
+body{
+    background-color: black;
+}
+@media (min-width:1100px) and (max-width:1600px){
+    
+.button1{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 5px;
+    width: 320px;
+}
+.button2{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+}
+.button3{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+}
+.button4{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+    
+}
+.button5{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 5px;
+    width: 320px;
+}
+.button6{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+}
+.button7{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+}
+.button8{
+    display: flexbox;
+    display: inline;
+    color: black;
+    top: 0px;
+    left: 10px;
+    width: 320px;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    margin: auto auto auto auto;
+    background-color:white;
+    border: 1px solid black;
+    animation: color-change 5s infinite;
+
+}
+@keyframes color-change{
+    0%{
+        background-color: red;
+    }
+    25%{
+        background-color: yellow;
+    }
+    50%{
+        background-color: blue;
+
+    }
+    75%{
+        background-color: green;
+    }
+    100%{
+        background-color: red;
+
+    }
+    0%{border-radius:0 0 0 0 ;}
+    25%{border-radius:20% 20% 20% 20% ;}
+    50%{border-radius: 40% 40% 40% 40%;}
+    75%{border-radius:60% 60% 60% 60% ;}
+    100%{border-radius: 80% 80% 80% 80%;}
+    
+    }
+
+    
+} @media (min-width:600px)and (max-width:1099px){
+    
+    .button1{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 5px;
+        width: 320px;
+    }
+    .button2{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+    }
+    .button3{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+    }
+    .button4{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+        
+    }
+    .button5{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 5px;
+        width: 320px;
+    }
+    .button6{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+    }
+    .button7{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+    }
+    .button8{
+        display: flexbox;
+        display: inline;
+        color: black;
+        top: 0px;
+        left: 10px;
+        width: 320px;
+    }
+    
+    .box{
+        width: 250px;
+        height: 250px;
+        margin: auto auto auto auto;
+        background-color:white;
+        border: 1px solid black;
+        animation: color-change 5s infinite;
+    
+    }
+    @keyframes color-change{
+        0%{
+            background-color: red;
+        }
+        25%{
+            background-color: yellow;
+        }
+        50%{
+            background-color: blue;
+    
+        }
+        75%{
+            background-color: green;
+        }
+        100%{
+            background-color: red;
+    
+        }
+        0%{border-radius:0 0 0 0 ;}
+        25%{border-radius:20% 20% 20% 20% ;}
+        50%{border-radius: 40% 40% 40% 40%;}
+        75%{border-radius:60% 60% 60% 60% ;}
+        100%{border-radius: 80% 80% 80% 80%;}
+        
+        }
+           
+}
